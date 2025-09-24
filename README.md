@@ -1,0 +1,2 @@
+# Design-Fabrication-and-Performance-Evaluation-of-an-Okra-Seed-Extractor-for-seed-production
+ChatGPT said:  An automated okra seed sorting system was developed using machine learning and computer vision. Images of seeds were captured, annotated in RoboFlow, and used to train a YOLOv8 model in Google Colab. The trained model was deployed on a Raspberry Pi for real-time detection, improving sorting accuracy and efficiency over manual methods
